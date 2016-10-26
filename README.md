@@ -36,11 +36,12 @@
 
 ![aboutme](https://raw.githubusercontent.com/helloworld107/ZhNews/master/screenshots/aboutme.png)
 
-*这是我博客中的详细笔记和解析，可以配合着看项目http://blog.csdn.net/androidflying007/article/details/52926765
+*这是我博客中的详细笔记和解析http://blog.csdn.net/androidflying007/article/details/52926765，可以配合着看项目
 * 欢迎 Star 和 Fork
 
 
 ### License
+* 感谢werb
 * 感谢开源项目 [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
 * 感谢 [gank.io](http://gank.io/api)
 * 感谢 [MeiZhi](https://github.com/drakeet/Meizhi)
