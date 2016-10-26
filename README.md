@@ -1,4 +1,4 @@
-首项目来自于https://github.com/Werb/GankWithZhihu的项目，对此非常感谢，对此我又对适配器判断类型做了一定的优化及详细的解析
+本项目改编于werb大神的https://github.com/Werb/GankWithZhihu的项目，对此非常感谢，对此我又对适配器判断类型做了一定的优化及详细的解析
 # 实践！业余时间做的一款阅读类App （MVP + RxJava + Retrofit）
 
 * 整体项目基于 MVP + RxJava + Retrofit
